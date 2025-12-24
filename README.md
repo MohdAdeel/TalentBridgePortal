@@ -1,4 +1,4 @@
-# 🚀 Full Stack Application
+# Talent Bridge Job Portal
 
 This repository contains a **cleanly separated Frontend and Backend** setup, designed for scalable and maintainable full‑stack development.
 
@@ -166,3 +166,13 @@ npm run preview
 ## 📄 License
 
 This project is for internal development and learning purposes only.
+
+## 📸 Screenshots
+
+<img width="1296" height="1072" alt="homepage" src="https://github.com/user-attachments/assets/230a28ef-fc82-4c38-8edf-54ab1af94161" />
+<img width="1296" height="686" alt="Signup" src="https://github.com/user-attachments/assets/4e85220a-c031-4551-bf53-70da366104bd" />
+<img width="1296" height="654" alt="Login" src="https://github.com/user-attachments/assets/67e9387b-2a29-4abe-9f4b-c72f8e762b81" />
+![portal1](https://github.com/user-attachments/assets/21bf6f4c-f71a-4404-b89f-64494a1755d1)
+
+
+
